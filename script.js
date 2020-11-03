@@ -23,7 +23,7 @@
  * 
  * * Add a method that loops through your array of favourite songs.  The method must be in the data object.  
  * * For each place, console log a template literal in the following structure
- * * placeName is great!  I sing it all the time!
+ * * songName is great!  I sing it all the time!
  * 
  * * Call your method in your data structure
  */
@@ -114,16 +114,17 @@ let person = {
  * * Add values for
  * * -height(number)
  * * -species(string)
+ * * -favourite snack
  * * -is it carnivorous(boolean) 
  * 
  * * Add a method for eating a food
- * * -In your method, console log the sound munching on a snack
+ * * -In your method, console log the sound munching on its favourite snack
  * 
  * * Extend your small animal class to a giant monster of your creation
  * * Pick 3 properties of that giant monster and add them to your class(ensure those properties come from parameters)
  * * 
  * * Create two methods in your extended class
- * * -The first method should write the all the properties of your gian monster to screen in an unordered list
+ * * -The first method should write the all the properties of your giant monster to screen in an unordered list
  * * -The second method should console log the giant monster stomping through an imaginary location
  * 
  * * Create an instance of each Class and run all the methods on each.
